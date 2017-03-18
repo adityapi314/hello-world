@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi humans!
+
+Pi here. I like Python and Football. Enough said.
